@@ -1,0 +1,8 @@
+{
+    "label_mapping": {
+        "0": "benign",
+        "1": "malware"
+    },
+    "features_count": 10000,
+    "model_type": "<class 'xgboost.sklearn.XGBClassifier'>"
+}
